@@ -1,4 +1,7 @@
-### Hi there 👋
+### 很高兴你来这里 👋
+
+有天我做了个梦，梦到一个光头在给我理发，结束后出门，回头望了一眼招牌  ——  “一     剪      梅”。
+摸了摸头发：嚯！好手艺！
 
 <!--
 **asjqkkkk/asjqkkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
