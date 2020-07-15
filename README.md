@@ -1,8 +1,8 @@
-### Nice to meet you 👋
+### Nice to meet you 👋   [Welcom to my blog](http://oldchen.top/flutter-blog/#/)
 
 有天我做了个梦，梦到一个光头在给我理发，结束后回头望了眼招牌，赫然发现三个大字：***一 剪 梅***。
 
-接着我摸了摸头发：**嚯！好手艺！一根都不带剩的嘿！**
+接着我摸了摸头发：**嚯！一根都不带剩的嘿！**
 
 <!--
 **asjqkkkk/asjqkkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
