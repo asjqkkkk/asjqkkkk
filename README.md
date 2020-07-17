@@ -4,6 +4,9 @@
 
 接着我摸了摸头发：**嚯！一根都不带剩的嘿！**
 
+<img src="http://wx3.sinaimg.cn/large/006m97Kgly1g0qu1j9yujj30r80i0dil.jpg" width=300>
+
+
 <!--
 **asjqkkkk/asjqkkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
