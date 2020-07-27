@@ -1,10 +1,10 @@
 ### Nice to meet you 👋   [Welcom to my blog](http://oldchen.top/flutter-blog/#/)
 
-有天我做了个梦，梦到一个光头在给我理发，结束后回头望了眼招牌，赫然发现三个大字：***一 剪 梅***。
 
-接着我摸了摸头发：**嚯！一根都不带剩的嘿！**
 
-<img src="http://wx3.sinaimg.cn/large/006m97Kgly1g0qu1j9yujj30r80i0dil.jpg" width=300>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asjqkkkk)
+
+![](https://github-readme-stats.vercel.app/api?username=asjqkkkk&show_icons=true&icon_color=4B8EDF&text_color=5C6998&bg_color=ffffff&hide_title=false)
 
 
 <!--
