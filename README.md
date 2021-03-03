@@ -3,7 +3,7 @@
 ### Nice to meet you 👋   [Welcom to my blog](http://oldchen.top/flutter-blog/#/)
 
 - 🔭 I’m currently working on a game company
-- 🌱 I’m currently learning flutter and how to live better
+- 🌱 I’m currently learning flutter and thinking for how to live better
 - 🤔 I’m looking for help with a better work chance
 - 💬 Ask me about what game I like to play
 - 📫 How to reach me: agedchen@gmail.com
