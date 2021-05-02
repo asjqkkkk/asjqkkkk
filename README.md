@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=asjqkkkk&color=4F89DE)
 
-### Nice to meet you <image src="https://user-images.githubusercontent.com/30992818/109906379-5aeb8a80-7cdb-11eb-821f-5b7192e8a051.gif" width=30>[Welcom to my blog](http://oldchen.top/flutter-blog/#/)
+### Nice to meet you <image src="https://user-images.githubusercontent.com/30992818/109906379-5aeb8a80-7cdb-11eb-821f-5b7192e8a051.gif" width=30>[Welcom to my blog](http://oldchen.top/)
 
 - 🔭 I’m currently working on a game company
 - 🌱 I’m currently learning flutter and thinking for how to live better
