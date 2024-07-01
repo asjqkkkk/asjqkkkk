@@ -2,7 +2,6 @@
 
 ### Nice to meet you <image src="https://user-images.githubusercontent.com/30992818/109906379-5aeb8a80-7cdb-11eb-821f-5b7192e8a051.gif" width=30>[Welcom to my blog](http://morn.fun/)
 
-- 🔭 I’m currently working on a game company
 - 🌱 I’m currently learning flutter and thinking for how to live better
 - 🤔 I’m looking for help with a better work chance
 - 💬 Ask me about what game I like to play
